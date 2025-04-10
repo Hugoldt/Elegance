@@ -5,7 +5,7 @@ const Team = () => {
     {
       name: "Nino.T",
       role: "Maître Tailleur",
-      image: "https://imgur.com/a/QiK4ZC6.jpeg",
+      image: "https://i.imgur.com/EhaWaMW.jpeg",
       description: "Plus de 20 ans d'expérience dans la confection de costumes sur mesure."
     },
     {
@@ -17,13 +17,13 @@ const Team = () => {
     {
       name: "Hugo.L",
       role: "Artisan Bottier",
-      image: "https://imgur.com/a/y7TWEMP.jpeg",
+      image: "https://i.imgur.com/b3N0gtV.png",
       description: "Spécialiste du travail du cuir et de la fabrication de chaussures sur mesure."
     },
     {
       name: "Antoine.C",
       role: "Responsable Client",
-      image: "https://imgur.com/a/8HGkM3J.jpeg",
+      image: "https://i.imgur.com/0zbq8Lh.png",
       description: "Votre interlocutrice privilégiée pour un service personnalisé."
     }
   ];
