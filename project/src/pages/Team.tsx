@@ -24,7 +24,7 @@ const Team = () => {
       name: "Antoine.C",
       role: "Responsable Client",
       image: "https://i.imgur.com/0zbq8Lh.png",
-      description: "Votre interlocutrice privilégiée pour un service personnalisé."
+      description: "Votre interlocuteur privilégié pour un service personnalisé."
     }
   ];
 

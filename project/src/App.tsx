@@ -28,7 +28,7 @@ function App() {
         </main>
         <Footer />
 
-        {/* Chatbot visible uniquement quand activé */}
+        
         <div className="fixed bottom-6 right-6 z-50">
           {isChatOpen ? (
             <div className="relative">
